@@ -1,0 +1,41 @@
+{
+    "squadName": "Equipo de Desarrollo de Software",
+    "Ubicación": "Orizaba, Ver.",
+    "Formado": 2022,
+    "Universidad": "Universidad del Valle de Orizaba",
+    "active": true,
+    "members": [
+      {
+        "name": "Front",
+        "Desarrollador": "Front",
+        "Habilidades": [
+          "Creacion de interfaz de Usuario",
+          "Conexion con Apis REST",
+          "Manejo de Angular, TypeScript y JavaScript",
+          "DevOops",
+          "GIT y GITHUB"
+        ]
+      },
+      {
+        "name": "Back",
+        "Desarrollador": "Back",
+        "Habilidades": [
+          "Diseño de BD",
+          "Diseño de Api REST",
+          "DevOps",
+          "GIT y GITHUB"
+        ]
+      },
+      {
+        "name": "Electronica",
+        "Ingeniero": "Electronico",
+        "Habilidades": [
+          "Diseño de circuitos",
+          "Diseño de placas",
+          "Microprogramación",
+          "Calibración de sensores",
+          "Comunicación con Apis Rest"
+        ]
+      }
+    ]
+  }
